@@ -1,5 +1,5 @@
 # RealTimeEmotionsOpenCV
- Little pet prject using OpenCV + TensorFlow to show emotions of people on camera
+ Little pet project using OpenCV + TensorFlow to show emotions of people on camera
 
 # Model
  Model of choice is VGG: CCPCCPCCPCCPFF
